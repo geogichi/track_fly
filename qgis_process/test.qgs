@@ -1,5 +1,5 @@
 <!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
-<qgis projectname="" saveDateTime="2023-11-30T23:31:46" saveUser="szchixy" saveUserFull="szchixy" version="3.28.0-Firenze">
+<qgis projectname="" saveDateTime="2023-11-30T23:31:46" saveUser="geogichi" saveUserFull="geogichi" version="3.28.0-Firenze">
   <homePath path=""/>
   <title></title>
   <transaction mode="Disabled"/>
@@ -3038,7 +3038,7 @@ control = dialog.findChild(QWidget, "MyLineEdit")
       <role></role>
     </contact>
     <links/>
-    <author>szchixy</author>
+    <author>geogichi</author>
     <creation>2023-06-03T18:11:35</creation>
   </projectMetadata>
   <Annotations/>
